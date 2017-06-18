@@ -1,0 +1,8 @@
+W:\NET_16_1\SnakeWinForm\SnakeOOPfin_\bin\Debug\SnakeOOP.exe.config
+W:\NET_16_1\SnakeWinForm\SnakeOOPfin_\bin\Debug\SnakeOOP.exe
+W:\NET_16_1\SnakeWinForm\SnakeOOPfin_\bin\Debug\SnakeOOP.pdb
+W:\NET_16_1\SnakeWinForm\SnakeOOPfin_\obj\Debug\SnakeOOP.exe
+W:\NET_16_1\SnakeWinForm\SnakeOOPfin_\obj\Debug\SnakeOOP.pdb
+C:\Users\Den\Desktop\SnakeWinForm\SnakeOOPfin_\bin\Debug\SnakeOOP.exe.config
+C:\Users\Den\Desktop\SnakeWinForm\SnakeOOPfin_\obj\Debug\SnakeOOP.exe
+C:\Users\Den\Desktop\SnakeWinForm\SnakeOOPfin_\obj\Debug\SnakeOOP.pdb

@@ -1,0 +1,33 @@
+K:\C#\Snake_OOP\SnakeOOPfin\bin\Release\SnakeOOP.exe.config
+K:\C#\Snake_OOP\SnakeOOPfin\bin\Release\SnakeOOP.exe
+K:\C#\Snake_OOP\SnakeOOPfin\bin\Release\SnakeOOP.pdb
+K:\C#\Snake_OOP\SnakeOOPfin\obj\Release\SnakeOOP.csprojResolveAssemblyReference.cache
+K:\C#\Snake_OOP\SnakeOOPfin\obj\Release\SnakeOOP.exe
+K:\C#\Snake_OOP\SnakeOOPfin\obj\Release\SnakeOOP.pdb
+F:\C#\Snake_OOP\SnakeOOPfin\bin\Release\SnakeOOP.exe.config
+F:\C#\Snake_OOP\SnakeOOPfin\obj\Release\SnakeOOP.exe
+F:\C#\Snake_OOP\SnakeOOPfin\obj\Release\SnakeOOP.pdb
+F:\C#\Snake_OOP\SnakeOOPfin\bin\Release\SnakeOOP.exe
+F:\C#\Snake_OOP\SnakeOOPfin\bin\Release\SnakeOOP.pdb
+F:\C#\Snake_OOP\SnakeOOPfin\obj\Release\SnakeOOP.csprojResolveAssemblyReference.cache
+F:\C#\Snake_OOP\SnakeOOPfin - копия\bin\Release\SnakeOOP.exe.config
+F:\C#\Snake_OOP\SnakeOOPfin - копия\obj\Release\SnakeOOP.exe
+F:\C#\Snake_OOP\SnakeOOPfin - копия\obj\Release\SnakeOOP.pdb
+F:\C#\Snake_OOP\SnakeOOPfin - копия\bin\Release\SnakeOOP.exe
+F:\C#\Snake_OOP\SnakeOOPfin - копия\bin\Release\SnakeOOP.pdb
+F:\C#\Snake_OOP\SnakeOOPfin - копия\obj\Release\SnakeOOP.csprojResolveAssemblyReference.cache
+W:\NET_16_1\SnakeWinForm\SnakeOOPfin_\bin\Release\SnakeOOP.exe.config
+W:\NET_16_1\SnakeWinForm\SnakeOOPfin_\obj\Release\SnakeOOP.exe
+W:\NET_16_1\SnakeWinForm\SnakeOOPfin_\obj\Release\SnakeOOP.pdb
+F:\C#\SnakeWinForm\SnakeOOPfin_\bin\Release\SnakeOOP.exe.config
+F:\C#\SnakeWinForm\SnakeOOPfin_\bin\Release\SnakeOOP.exe
+F:\C#\SnakeWinForm\SnakeOOPfin_\bin\Release\SnakeOOP.pdb
+F:\C#\SnakeWinForm\SnakeOOPfin_\obj\Release\SnakeOOP.csprojResolveAssemblyReference.cache
+F:\C#\SnakeWinForm\SnakeOOPfin_\obj\Release\SnakeOOP.exe
+F:\C#\SnakeWinForm\SnakeOOPfin_\obj\Release\SnakeOOP.pdb
+C:\Users\Den\Desktop\SnakeWinForm\SnakeOOPfin_\bin\Release\SnakeOOP.exe.config
+C:\Users\Den\Desktop\SnakeWinForm\SnakeOOPfin_\obj\Release\SnakeOOP.exe
+C:\Users\Den\Desktop\SnakeWinForm\SnakeOOPfin_\obj\Release\SnakeOOP.pdb
+C:\Users\Den\Desktop\SnakeWinForm\SnakeOOPfin_\bin\Release\SnakeOOP.exe
+C:\Users\Den\Desktop\SnakeWinForm\SnakeOOPfin_\bin\Release\SnakeOOP.pdb
+C:\Users\Den\Desktop\SnakeWinForm\SnakeOOPfin_\obj\Release\SnakeOOP.csprojResolveAssemblyReference.cache
